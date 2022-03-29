@@ -1,0 +1,1 @@
+Nesse projeto teve como tema uma apresentação uma home de um site de finanças onde o mesmo cuidaria das contas do usuário. Nesse projeto utilizei o sistema de grid com responsividade e adaptação de tela para variados tipos de tela de dispositivos distintos.

@@ -1,0 +1,9 @@
+#logo{
+    background: url(../IMAGENS/logo.png);
+    width: 261px;
+    height: 68px;
+    text-indent: -9999px;
+}
+.teste{
+    border: 1px solid green;
+}
